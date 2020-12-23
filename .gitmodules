@@ -2,3 +2,8 @@
 	path = oca/l10n-italy
 	url = git@github.com:oca/l10n-italy.git
 	branch = 12.0
+
+[submodule "tfrancoi/perso_accounting_openerp"]
+	path = tfrancoi/perso_accounting_openerp
+	url = git@github.com:tfrancoi/perso_accounting_openerp.git
+	branch = 12.0
